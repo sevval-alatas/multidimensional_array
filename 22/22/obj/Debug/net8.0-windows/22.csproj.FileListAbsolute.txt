@@ -1,0 +1,22 @@
+C:\Users\seval\OneDrive\Masaüstü\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\_22.Form1.resources
+C:\Users\seval\OneDrive\Masaüstü\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.csproj.GenerateResource.cache
+C:\Users\seval\OneDrive\Masaüstü\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seval\OneDrive\Masaüstü\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.AssemblyInfoInputs.cache
+C:\Users\seval\OneDrive\Masaüstü\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.AssemblyInfo.cs
+C:\Users\seval\OneDrive\Masaüstü\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.csproj.CoreCompileInputs.cache
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\bin\Debug\net8.0-windows\22.exe
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\bin\Debug\net8.0-windows\22.deps.json
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\bin\Debug\net8.0-windows\22.runtimeconfig.json
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\bin\Debug\net8.0-windows\22.dll
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\bin\Debug\net8.0-windows\22.pdb
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\_22.Form1.resources
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.csproj.GenerateResource.cache
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.AssemblyInfoInputs.cache
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.AssemblyInfo.cs
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.csproj.CoreCompileInputs.cache
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.dll
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\refint\22.dll
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.pdb
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\22.genruntimeconfig.cache
+C:\Users\seval\OneDrive\Masaüstü\Düzce Üniversitesi\2023-2024 BAHAR\GÖRSEL PPOGRAMLAMA\Şevval_Alataş_211001088\22\22\obj\Debug\net8.0-windows\ref\22.dll
